@@ -1,4 +1,6 @@
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Kerv-GIT_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Kerv-GIT_mslearn-tailspin-spacegame-web)
+
 [![Build Status](https://dev.azure.com/TailspinActivity/Space%20Game%20-%20web%20-%20Pipeline%20ACTIVITY/_apis/build/status/Kerv-GIT.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TailspinActivity/Space%20Game%20-%20web%20-%20Pipeline%20ACTIVITY/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
